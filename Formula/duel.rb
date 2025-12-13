@@ -1,8 +1,8 @@
 class Duel < Formula
   desc "CLI 1v1 dueling game"
   homepage "https://github.com/clarkfannin/cli-duel"
-  url "https://github.com/clarkfannin/cli-duel/archive/refs/tags/v0.2.2.tar.gz"
-  sha256 "a84201a064f29a23ef9b68a6e5e43a51d06dcaf99a3b03c33e8b53d1ee2dd705"
+  url "https://github.com/clarkfannin/cli-duel/archive/refs/tags/v0.2.3.tar.gz"
+  sha256 "54b14fe6b86a95557236d7353899a54c9bcc8952aceb384f70fa76c6614a250c"
   license "MIT"
 
   depends_on "go" => :build
